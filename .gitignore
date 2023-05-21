@@ -1,0 +1,13 @@
+# Default settings
+.DS_Store
+Thumbs.db
+
+# Ignore PDF files
+*.pdf
+
+# Ignore data files
+*.csv
+*.dat
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
